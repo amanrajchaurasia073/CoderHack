@@ -1,0 +1,9 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/contestDb
+  banner:
+    location: banner.txt

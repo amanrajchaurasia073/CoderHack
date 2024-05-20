@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="crio.aman.service.impl.UserServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-20T07:32:18" hostname="DESKTOP-6OKAK03" time="1.065">
+  <properties/>
+  <testcase name="deleteUserById()" classname="crio.aman.service.impl.UserServiceTest" time="1.065"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
